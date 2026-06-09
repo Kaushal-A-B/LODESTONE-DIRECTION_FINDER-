@@ -296,7 +296,7 @@ Lodestone/
 
 ---
 
-## 🤝 Contributin
+## 🤝 Contributing
 
 Contributions are welcome! To get started:
 
